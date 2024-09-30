@@ -33,3 +33,7 @@ This is a beginner-friendly Mental Health Awareness webpage built using HTML, CS
 
 ## Deployment
 - Deployed early to ensure basic navbar appears correctly on page. This will allow for automatic deployments with each git push made to the repository.
+
+## future
+- Potential to add or remove images from carousel.
+- Update/change carousel headings and paragraphs as necessary.
