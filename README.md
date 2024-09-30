@@ -7,7 +7,7 @@ This is a beginner-friendly Mental Health Awareness webpage built using HTML, CS
 
 ## Features
 - Responsive Navbar with dropdown
-- Hero section with image and call-to-action
+- Carousel section with images and call-to-action
 - Jumbotron section for newsletter and coffee session signups
 - Callout section with mental health awareness facts
 - Grid layout to display key information
@@ -21,5 +21,10 @@ This is a beginner-friendly Mental Health Awareness webpage built using HTML, CS
 - Bootstrap 5
 - Font Awesome for social media icons
 
-## Sources
-- Unsplash for Hero images https://unsplash.com/
+## Sources and links
+- Unsplash for carousel images https://unsplash.com/
+
+## Validation tools
+- W3C
+- Jigsaw
+
