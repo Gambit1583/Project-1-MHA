@@ -23,6 +23,7 @@ This is a beginner-friendly Mental Health Awareness webpage built using HTML, CS
 
 ## Sources and links
 - Unsplash for carousel images https://unsplash.com/
+- Champion Health https://championhealth.co.uk/insights/mental-health-statistics/
 
 ## Validation tools
 - W3C
@@ -36,4 +37,6 @@ This is a beginner-friendly Mental Health Awareness webpage built using HTML, CS
 
 ## future
 - Potential to add or remove images from carousel.
-- Update/change carousel headings and paragraphs as necessary.
+- Update/change carousel headings and paragraphs as necessary. Image captions are overlapping
+- Removed some captions to prevent overlap until a fix can be arranged.
+- Repair carousel button so that users can cycle through the images if desired.
