@@ -12,8 +12,9 @@
 
 /* Callout */
 
-.callout callout-info {
+.callout {
     background-color: blue;
     color: #0f7fdb; 
+    border color: red;
 
 }

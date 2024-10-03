@@ -22,9 +22,10 @@ This is a beginner-friendly Mental Health Awareness webpage built using HTML, CS
 - Font Awesome for social media icons
 
 ## Sources and links
-- Unsplash for carousel images https://unsplash.com/
-- Champion Health https://championhealth.co.uk/insights/mental-health-statistics/
-- Wiltshire together https://wiltshiretogether.org.uk/alltogether/activities-and-support-for-families/mental-health-wellbeing
+- Unsplash for carousel images: https://unsplash.com/
+- Champion Health: https://championhealth.co.uk/insights/mental-health-statistics/
+- Wiltshire together: https://wiltshiretogether.org.uk/alltogether/activities-and-support-for-families/mental-health-wellbeing
+-Public mental health: https://www.gov.uk/government/collections/public-mental-health
 
 ## Validation tools
 - W3C
