@@ -1,3 +1,7 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 /* Carousel */
 
 .carousel-item {
@@ -8,6 +12,16 @@
     overflow: visible;
    width: 100%;
    height: 53px;
+}
+
+/* Containers*/
+
+.container-wrapper {
+    background-color: rgb(212, 212, 216);
+}
+
+.text-uppercase h2 {
+    text-decoration-color: #d8d6d6
 }
 
 /* Callout */
@@ -22,6 +36,10 @@
 
 }
 
+.callout-container p.lead {
+        font-size: 1.25rem;
+}
+
 .callout-container .btn-success:hover {
     background-color: #1be31f;
     border-color: #e31b4a; 
@@ -34,4 +52,13 @@
     width: 100%;
     background-color: rgba(228, 10, 10, 0.25);
     border: 0;
+}
+
+/* Media queries */
+
+@media (max-width: 768px) {
+    .callout-container {
+        font-size: 1rem;
+        padding: 10px;
+    }
 }
