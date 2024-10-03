@@ -47,11 +47,20 @@ body {
 
 /* Navbar */
 
-.navbar {
+.navbar-brand {
     margin-bottom: 0;
     width: 100%;
-    background-color: rgba(228, 10, 10, 0.25);
+    background-color: #81b8ee;
     border: 0;
+    text-align: center;
+}
+
+#navbarNav {
+    background-color: #81b8ee;
+}
+
+.dropdown-item {
+    background-color: #27e988;
 }
 
 /* Testimonials */
