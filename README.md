@@ -8,10 +8,8 @@ This is a beginner-friendly Mental Health Awareness webpage built using HTML, CS
 ## Features
 - Responsive Navbar with dropdown
 - Carousel section with images and call-to-action
-- Jumbotron section for newsletter and coffee session signups
-- Callout section with mental health awareness facts
-- Grid layout to display key information
-- Embedded YouTube video
+- Callout section with with learn more link to government information on public mental health.
+- Grid layout to display key information.
 - Form for coffee meet up/socials
 - Footer with social media icons
 
@@ -25,14 +23,20 @@ This is a beginner-friendly Mental Health Awareness webpage built using HTML, CS
 - Unsplash for carousel images: https://unsplash.com/
 - Champion Health: https://championhealth.co.uk/insights/mental-health-statistics/
 - Wiltshire together: https://wiltshiretogether.org.uk/alltogether/activities-and-support-for-families/mental-health-wellbeing
--Public mental health: https://www.gov.uk/government/collections/public-mental-health
+- Public mental health: https://www.gov.uk/government/collections/public-mental-health
 - Mental health matters: https://www.mhm.org.uk/
 - NHS mental health services: https://www.nhs.uk/nhs-services/mental-health-services/
 
 
 ## Validation tools
-- W3C
-- Jigsaw
+- W3C 1 error remains with Error: The element button must not appear as a descendant of the a element. 
+
+From line 116, column 24; to line 116, column 62
+
+       <p><button class="btn btn-lg btn-success">Learn 
+
+       fix in next sprint.
+- Jigsaw no errors found.
 
 ## Testing
 - I will be testing throughout using dev tools in Google Chrome. This will allow me to ensure that my webpage is responsive from a mobile first perspective.
@@ -46,3 +50,5 @@ This is a beginner-friendly Mental Health Awareness webpage built using HTML, CS
 - Update/change carousel headings and paragraphs as necessary. Image captions are overlapping
 - Removed some captions to prevent overlap until a fix can be arranged.
 - Repair carousel button so that users can cycle through the images if desired.
+- Adjust colors across to be more user friendly
+- lock footer and adjust icons.
