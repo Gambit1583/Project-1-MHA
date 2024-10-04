@@ -12,7 +12,7 @@ This is a beginner-friendly Mental Health Awareness webpage built using HTML, CS
 - Callout section with mental health awareness facts
 - Grid layout to display key information
 - Embedded YouTube video
-- Modals for newsletter and coffee session signup
+- Form for coffee meet up/socials
 - Footer with social media icons
 
 ## Technologies Used
