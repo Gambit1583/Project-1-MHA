@@ -6,7 +6,7 @@ body {
 /* Carousel */
 
 #slideshow {
-    width: 80%;
+    width: auto;
     max-width: 600px;
     height: auto;
     margin: 0 auto;
