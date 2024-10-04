@@ -76,6 +76,29 @@ body {
     background-color: black;
     color: white;
 }
+
+/* Coffee-Sessions */
+
+.coffee-session {
+    background-color: #f8f9fa;
+}
+
+.coffee-session h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: grey;
+}
+
+.coffee-session .form-control {
+    margin-bottom: 20px;
+}
+
+.coffee-session p {
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    color: grey;
+}
+
 /* Media queries */
 
 @media (max-width: 768px) {
